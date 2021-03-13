@@ -1,0 +1,8 @@
+.quizinfo p {
+  margin: 0;
+  font-weight: bold;
+}
+
+#answer p {
+  margin: 5px;
+}
